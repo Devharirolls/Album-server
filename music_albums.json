@@ -1,0 +1,32 @@
+{
+    "music_albums": [
+        {
+            "title": "On",
+            "artist": "BTS",
+            "url":"https://youtu.be/gwMa6gpoE9I",
+            "image": "https://img1.kpopmap.com/2020/02/bts-on-youtube-cover.jpg",
+            "thumbnail_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc38f8y97OYzEwnYnZvEUEl__q0fVzBTVvtA&usqp=CAU"
+        },
+        {
+            "title": "Dynamite",
+            "artist": "BTS",
+            "url":"https://youtu.be/gdZLi9oWNZg",
+            "image": "https://file.mk.co.kr/mkde/N0/2020/09/20200901_4607131_1598943370.jpg",
+            "thumbnail_image":"https://koreanmusicawards.com/wp-content/uploads/2021/02/2021_BTS_2.jpg"
+        },
+        {
+            "title": "Butter",
+            "artist": "BTS",
+            "url":"https://youtu.be/WMweEpGlu_U",
+            "image": "https://flexible.img.hani.co.kr/flexible/normal/882/367/imgdb/original/2021/0612/1416234569469929.jpg",
+            "thumbnail_image":"https://koreajoongangdaily.joins.com/data/photo/2021/08/03/28ab87ce-8630-486c-9027-e4c844cd4237.jpg"
+        },
+        {
+            "title": "Permission to Dance",
+            "artist": "BTS",
+            "url":"https://youtu.be/CuklIb9d3fI",
+            "image": "https://dimg.donga.com/a/600/0/90/5/ugc/CDB/ENGLISH/Article/60/eb/6c/d9/60eb6cd9063cd2738245.jpg",
+            "thumbnail_image":"https://1.bp.blogspot.com/-V3I5ZGIJ4rs/YOSyt91dDII/AAAAAAAATmo/gQsMaFUcmQwdxVLyENKBuYTCg-FXCZORwCLcBGAsYHQ/s600/BTS-Permission-to-Dance.jpg"
+        }
+    ]
+}

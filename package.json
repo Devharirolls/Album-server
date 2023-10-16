@@ -1,0 +1,16 @@
+{
+  "name": "albums-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "music_albums": "json-server -w music_albums.json",
+    "tunnel": "ngrok http 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "ngrok": "^4.1.0"
+  }
+}
